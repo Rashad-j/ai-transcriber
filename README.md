@@ -1,8 +1,8 @@
 # AI Transcription CLI
 
-The AI Transcription CLI is a command-line tool that allows you to generate subtitles from video or audio files using AI services from AWS or GCP. This tool provides several commands to download files, transcribe audio, and transcribe audio while downloading the transcription.
+This CLI tool uses [transloadit](https://transloadit.com). Transloadit is an online service that can easily modify files using api calls. It enables easy access to AI from AWS or GCP.
 
-This CLI tool uses [transloadit](https://transloadit.com). Which is a simple service to handle files.
+This CLI tool is a command-line tool that allows you to generate subtitles from video or audio files using AI services from AWS or GCP. This tool provides several commands to download files, transcribe audio, and transcribe audio while downloading the transcription.
 
 ## Installation
 
